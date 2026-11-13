@@ -1,0 +1,8 @@
+{
+  "name": "DELIVER & DASH",
+  "description": "لعبة توصيل ثلاثية الأبعاد احترافية بمستويات صعوبة متدرجة، ترقيات للمركبات والمنزل، ومهام ديناميكية في مدينة حية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
